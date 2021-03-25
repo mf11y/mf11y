@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Moises' GitHub stats](https://github-readme-stats.vercel.app/api?username=mf11y&hide=stars,prs,issues,contribs&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Moises' GitHub stats](https://github-readme-stats.vercel.app/api?username=mf11y&hide=stars,prs,issues,contribs&theme=synthwave&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
